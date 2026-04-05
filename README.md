@@ -3,6 +3,23 @@ Business Intelligence dashboard built with Power BI — Sales &amp; margin analy
 # 📊 Power BI — Análisis de Utilidad y Márgenes | Utility & Margin Analysis
 ### Appol | 2019–2021
 
+
+## 💡 Business Insights
+
+Estos son los hallazgos clave del análisis, en lenguaje de negocio:
+
+**1. Los ingresos cayeron pero los gastos no**
+Entre 2019 y 2021, los ingresos de Appol muestran una caída sostenida mientras los gastos se mantienen estables. El resultado: el margen se erosiona año a año sin que sea obvio en una tabla plana.
+
+**2. PC concentra el 39% de los ingresos totales**
+Con $1.316M sobre $3.36M totales, PC es el producto que sostiene el negocio. Si esa línea cae, el impacto es desproporcionado respecto al resto del catálogo.
+
+**3. América genera el 39% de la utilidad global**
+Es el continente más rentable por lejos. Asia y Europa están lejos. Cualquier decisión de expansión debería partir de entender qué hace diferente al mercado americano.
+
+**4. El margen global de 19.95% es frágil**
+Con ingresos bajando y gastos estables, ese margen no tiene mucho colchón. Una caída adicional en ventas de PC o América lo llevaría a zona de riesgo.
+
 ---
 
 ## 🇬🇧 English
